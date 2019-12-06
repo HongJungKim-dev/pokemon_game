@@ -6,7 +6,7 @@
 
 enum start_pokemon {ggobugi=1, pichu, fire}; //꼬부기, 피츄, 파이리. switch문에서 가독성 높이기 위함
 
-typedef struct pokemon {
+typedef struct pokemon{
 	int attribute;
 	char *name;
 	int hp;
@@ -16,13 +16,13 @@ typedef struct pokemon {
 	int(*skill)(void *, void *); // 적과 나의 player struct 가져옴.
 }Pokemon;
 
-typedef struct inventory {
+typedef struct inventory{
 	int monster_ball;
 	int evolution_stone;
 	int medicine;
 }Inventory;
 
-typedef struct player {
+typedef struct player{
 	char *name;
 	int cash;
 	int badge;
@@ -31,3 +31,8 @@ typedef struct player {
 	Pokemon **pokemon_bag; //가지고 있는 포켓몬 보관
 	int pres_level; // 체육관 레벨
 }Player;
+
+typedef struct rand_pokemon{
+	int i;
+	int j;
+}rand_pokemon;
