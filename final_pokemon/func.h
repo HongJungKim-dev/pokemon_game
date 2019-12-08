@@ -10,7 +10,7 @@ Pokemon* make_pokemon(Pokemon* pokemon);
 Inventory* make_inventory(Inventory* inventory);
 
 //플레이어 정보 설정
-Player *set_player_info(Player *player);
+void set_player_info(Player *player);
 
 //포켓몬 정보 설정
 void set_pokemon_info(Player *player);

@@ -131,7 +131,7 @@ Inventory* make_inventory(Inventory* inventory) {
 }
 
 //플레이어 정보 설정
-Player *set_player_info(Player *player) {
+void set_player_info(Player *player) {
 	Pokemon* pokemon = { 0 };
 	Inventory* inventory = { 0 };
 
