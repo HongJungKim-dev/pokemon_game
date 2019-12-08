@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "포켓몬2", "포켓몬2\포켓몬2.vcxproj", "{F6125AC2-7C3B-42BD-8DED-494462619B48}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "memory", "..\..\memory\memory.vcxproj", "{EAAC3D28-5C06-482B-823D-EEBBECA95CB3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "final_pokemon", "..\..\final_pokemon\final_pokemon.vcxproj", "{5A369937-0D39-4668-B4B8-CE2217EBA720}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6125AC2-7C3B-42BD-8DED-494462619B48}.Debug|x64.ActiveCfg = Debug|x64
+		{F6125AC2-7C3B-42BD-8DED-494462619B48}.Debug|x64.Build.0 = Debug|x64
+		{F6125AC2-7C3B-42BD-8DED-494462619B48}.Debug|x86.ActiveCfg = Debug|Win32
+		{F6125AC2-7C3B-42BD-8DED-494462619B48}.Debug|x86.Build.0 = Debug|Win32
+		{F6125AC2-7C3B-42BD-8DED-494462619B48}.Release|x64.ActiveCfg = Release|x64
+		{F6125AC2-7C3B-42BD-8DED-494462619B48}.Release|x64.Build.0 = Release|x64
+		{F6125AC2-7C3B-42BD-8DED-494462619B48}.Release|x86.ActiveCfg = Release|Win32
+		{F6125AC2-7C3B-42BD-8DED-494462619B48}.Release|x86.Build.0 = Release|Win32
+		{EAAC3D28-5C06-482B-823D-EEBBECA95CB3}.Debug|x64.ActiveCfg = Debug|x64
+		{EAAC3D28-5C06-482B-823D-EEBBECA95CB3}.Debug|x64.Build.0 = Debug|x64
+		{EAAC3D28-5C06-482B-823D-EEBBECA95CB3}.Debug|x86.ActiveCfg = Debug|Win32
+		{EAAC3D28-5C06-482B-823D-EEBBECA95CB3}.Debug|x86.Build.0 = Debug|Win32
+		{EAAC3D28-5C06-482B-823D-EEBBECA95CB3}.Release|x64.ActiveCfg = Release|x64
+		{EAAC3D28-5C06-482B-823D-EEBBECA95CB3}.Release|x64.Build.0 = Release|x64
+		{EAAC3D28-5C06-482B-823D-EEBBECA95CB3}.Release|x86.ActiveCfg = Release|Win32
+		{EAAC3D28-5C06-482B-823D-EEBBECA95CB3}.Release|x86.Build.0 = Release|Win32
+		{5A369937-0D39-4668-B4B8-CE2217EBA720}.Debug|x64.ActiveCfg = Debug|x64
+		{5A369937-0D39-4668-B4B8-CE2217EBA720}.Debug|x64.Build.0 = Debug|x64
+		{5A369937-0D39-4668-B4B8-CE2217EBA720}.Debug|x86.ActiveCfg = Debug|Win32
+		{5A369937-0D39-4668-B4B8-CE2217EBA720}.Debug|x86.Build.0 = Debug|Win32
+		{5A369937-0D39-4668-B4B8-CE2217EBA720}.Release|x64.ActiveCfg = Release|x64
+		{5A369937-0D39-4668-B4B8-CE2217EBA720}.Release|x64.Build.0 = Release|x64
+		{5A369937-0D39-4668-B4B8-CE2217EBA720}.Release|x86.ActiveCfg = Release|Win32
+		{5A369937-0D39-4668-B4B8-CE2217EBA720}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78367650-B01A-4D70-B728-8EEF6F5AD4B3}
+	EndGlobalSection
+EndGlobal

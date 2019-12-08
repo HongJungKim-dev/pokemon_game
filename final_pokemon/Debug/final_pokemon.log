@@ -1,9 +1,0 @@
-﻿  func.c
-c:\users\khj\source\repos\final_pokemon\func.c(86): warning C4098: 'set_player_info': 'void' 함수에서 값을 반환하고 있습니다.
-c:\users\khj\source\repos\final_pokemon\func.c(59): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
-c:\users\khj\source\repos\final_pokemon\func.c(94): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
-  main.c
-  코드를 생성하고 있습니다...
-  final_pokemon.vcxproj -> C:\Users\Khj\source\repos\final_pokemon\Debug\final_pokemon.exe
