@@ -1,0 +1,14 @@
+﻿  main.c
+c:\users\khj\source\repos\merge\main.c(54): warning C4047: '함수': 'Player *'의 간접 참조 수준이 'Player **'과(와) 다릅니다.
+c:\users\khj\source\repos\merge\main.c(54): warning C4024: 'make_player': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\khj\source\repos\merge\main.c(61): warning C4047: '함수': 'Pokemon ****'의 간접 참조 수준이 'Pokemon ***'과(와) 다릅니다.
+c:\users\khj\source\repos\merge\main.c(61): warning C4024: 'make_bag_group': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\khj\source\repos\merge\main.c(62): warning C4047: '함수': 'Pokemon ****'의 간접 참조 수준이 'Pokemon ***'과(와) 다릅니다.
+c:\users\khj\source\repos\merge\main.c(62): warning C4024: 'make_bag_row': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\khj\source\repos\merge\main.c(63): warning C4047: '함수': 'Pokemon ****'의 간접 참조 수준이 'Pokemon ***'과(와) 다릅니다.
+c:\users\khj\source\repos\merge\main.c(63): warning C4024: 'make_bag_col': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\khj\source\repos\merge\main.c(64): warning C4047: '함수': 'Pokemon ***'의 간접 참조 수준이 'Pokemon **'과(와) 다릅니다.
+c:\users\khj\source\repos\merge\main.c(64): warning C4024: 'print_bag': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\khj\source\repos\merge\main.c(119): warning C4047: '함수': 'Pokemon **'의 간접 참조 수준이 'Pokemon ***'과(와) 다릅니다.
+c:\users\khj\source\repos\merge\main.c(119): warning C4024: 'moving': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+  merge.vcxproj -> C:\Users\Khj\source\repos\merge\Debug\merge.exe
